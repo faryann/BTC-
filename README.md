@@ -19,10 +19,10 @@
 
 # In this study, we examine the performance of this strategy on Bitcoin (BTC) price data dating back to 2018.
 
-# ======================================================================
+# ===========================================
 
 
-# ============================================ Summary of findings =========================================
+# ========================================== Summary of findings =========================================
 
 # Our analysis revealed that the maximum return achieved through this strategy is approximately 11 times the original investment.
 
